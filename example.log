@@ -1,0 +1,82 @@
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/daniel/Documents/webdevelopmentcwk2/app/__init__.py', reloading
+INFO:werkzeug: * Restarting with stat
+12/12/2021 10:31:05 PM  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+12/12/2021 10:31:05 PM  * Restarting with stat
+12/12/2021 10:31:12 PM 127.0.0.1 - - [12/Dec/2021 22:31:12] "GET /add_student HTTP/1.1" 200 -
+12/12/2021 10:31:12 PM 127.0.0.1 - - [12/Dec/2021 22:31:12] "[33mGET /static/print.css HTTP/1.1[0m" 404 -
+12/12/2021 10:33:47 PM  * Detected change in '/home/daniel/Documents/webdevelopmentcwk2/unit_tests/test.py', reloading
+12/12/2021 10:33:48 PM  * Restarting with stat
+12/12/2021 10:37:27 PM  * Detected change in '/home/daniel/Documents/webdevelopmentcwk2/unit_tests/test.py', reloading
+12/12/2021 10:37:27 PM  * Restarting with stat
+12/12/2021 10:39:14 PM  * Detected change in '/home/daniel/Documents/webdevelopmentcwk2/unit_tests/test.py', reloading
+12/12/2021 10:39:14 PM  * Restarting with stat
+12/12/2021 10:39:46 PM  * Detected change in '/home/daniel/Documents/webdevelopmentcwk2/unit_tests/test.py', reloading
+12/12/2021 10:39:46 PM  * Restarting with stat
+12/12/2021 10:40:38 PM  * Detected change in '/home/daniel/Documents/webdevelopmentcwk2/unit_tests/test.py', reloading
+12/12/2021 10:40:38 PM  * Restarting with stat
+12/12/2021 10:41:28 PM 127.0.0.1 - - [12/Dec/2021 22:41:28] "GET /login HTTP/1.1" 200 -
+12/12/2021 10:41:28 PM 127.0.0.1 - - [12/Dec/2021 22:41:28] "[33mGET /static/print.css HTTP/1.1[0m" 404 -
+12/12/2021 10:42:03 PM  * Detected change in '/home/daniel/Documents/webdevelopmentcwk2/unit_tests/test.py', reloading
+12/12/2021 10:42:03 PM  * Restarting with stat
+12/12/2021 11:12:03 PM  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+12/12/2021 11:12:03 PM  * Restarting with stat
+12/12/2021 11:12:06 PM 127.0.0.1 - - [12/Dec/2021 23:12:06] "GET /login HTTP/1.1" 200 -
+12/12/2021 11:12:06 PM 127.0.0.1 - - [12/Dec/2021 23:12:06] "[33mGET /static/print.css HTTP/1.1[0m" 404 -
+12/12/2021 11:12:08 PM 127.0.0.1 - - [12/Dec/2021 23:12:08] "GET /add_student HTTP/1.1" 200 -
+12/12/2021 11:12:09 PM 127.0.0.1 - - [12/Dec/2021 23:12:09] "[33mGET /static/print.css HTTP/1.1[0m" 404 -
+12/12/2021 11:12:19 PM  * Detected change in '/home/daniel/Documents/webdevelopmentcwk2/test.py', reloading
+12/12/2021 11:12:19 PM  * Restarting with stat
+12/12/2021 11:12:25 PM 127.0.0.1 - - [12/Dec/2021 23:12:25] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+12/12/2021 11:12:25 PM 127.0.0.1 - - [12/Dec/2021 23:12:25] "GET /login?next=%2Fdashboard HTTP/1.1" 200 -
+12/12/2021 11:12:25 PM 127.0.0.1 - - [12/Dec/2021 23:12:25] "[33mGET /static/print.css HTTP/1.1[0m" 404 -
+12/12/2021 11:13:03 PM  * Detected change in '/home/daniel/Documents/webdevelopmentcwk2/test.py', reloading
+12/12/2021 11:13:03 PM  * Restarting with stat
+12/12/2021 11:13:48 PM  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+12/12/2021 11:13:48 PM  * Restarting with stat
+12/12/2021 11:15:42 PM  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+12/12/2021 11:15:42 PM  * Restarting with stat
+12/12/2021 11:15:44 PM 127.0.0.1 - - [12/Dec/2021 23:15:44] "GET /add_student HTTP/1.1" 200 -
+12/12/2021 11:15:45 PM 127.0.0.1 - - [12/Dec/2021 23:15:45] "[33mGET /static/print.css HTTP/1.1[0m" 404 -
+12/12/2021 11:15:49 PM 127.0.0.1 - - [12/Dec/2021 23:15:49] "[32mGET /dashboard HTTP/1.1[0m" 302 -
+12/12/2021 11:15:49 PM 127.0.0.1 - - [12/Dec/2021 23:15:49] "GET /login?next=%2Fdashboard HTTP/1.1" 200 -
+12/12/2021 11:15:49 PM 127.0.0.1 - - [12/Dec/2021 23:15:49] "[33mGET /static/print.css HTTP/1.1[0m" 404 -
+12/12/2021 11:15:59 PM  * Detected change in '/home/daniel/Documents/webdevelopmentcwk2/test.py', reloading
+12/12/2021 11:15:59 PM  * Restarting with stat
+12/12/2021 11:25:58 PM  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+12/12/2021 11:26:18 PM  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+12/12/2021 11:26:18 PM  * Restarting with stat
+12/12/2021 11:26:21 PM 127.0.0.1 - - [12/Dec/2021 23:26:21] "GET /login?next=%2Fdashboard HTTP/1.1" 200 -
+12/12/2021 11:26:22 PM 127.0.0.1 - - [12/Dec/2021 23:26:22] "[33mGET /static/print.css HTTP/1.1[0m" 404 -
+12/12/2021 11:26:27 PM  logged in  Successfully
+12/12/2021 11:26:27 PM 127.0.0.1 - - [12/Dec/2021 23:26:27] "[32mPOST /login?next=%2Fdashboard HTTP/1.1[0m" 302 -
+12/12/2021 11:26:27 PM 127.0.0.1 - - [12/Dec/2021 23:26:27] "GET /dashboard HTTP/1.1" 200 -
+12/12/2021 11:26:27 PM 127.0.0.1 - - [12/Dec/2021 23:26:27] "[33mGET /static/print.css HTTP/1.1[0m" 404 -
+12/12/2021 11:26:30 PM 127.0.0.1 - - [12/Dec/2021 23:26:30] "GET /edit_student HTTP/1.1" 200 -
+12/12/2021 11:26:30 PM 127.0.0.1 - - [12/Dec/2021 23:26:30] "[33mGET /static/print.css HTTP/1.1[0m" 404 -
+12/12/2021 11:26:34 PM 127.0.0.1 - - [12/Dec/2021 23:26:34] "POST /edit_student HTTP/1.1" 200 -
+12/12/2021 11:26:34 PM 127.0.0.1 - - [12/Dec/2021 23:26:34] "[33mGET /static/print.css HTTP/1.1[0m" 404 -
+12/12/2021 11:26:37 PM dlartey Registed Successfully
+12/12/2021 11:26:37 PM 127.0.0.1 - - [12/Dec/2021 23:26:37] "[32mGET /logout HTTP/1.1[0m" 302 -
+12/12/2021 11:26:37 PM 127.0.0.1 - - [12/Dec/2021 23:26:37] "GET /login HTTP/1.1" 200 -
+12/12/2021 11:26:38 PM 127.0.0.1 - - [12/Dec/2021 23:26:38] "[33mGET /static/print.css HTTP/1.1[0m" 404 -
+12/12/2021 11:26:43 PM  logged in  Successfully
+12/12/2021 11:26:43 PM 127.0.0.1 - - [12/Dec/2021 23:26:43] "[32mPOST /login HTTP/1.1[0m" 302 -
+12/12/2021 11:26:43 PM 127.0.0.1 - - [12/Dec/2021 23:26:43] "GET /dashboard HTTP/1.1" 200 -
+12/12/2021 11:26:43 PM 127.0.0.1 - - [12/Dec/2021 23:26:43] "[33mGET /static/print.css HTTP/1.1[0m" 404 -
+12/12/2021 11:26:46 PM 127.0.0.1 - - [12/Dec/2021 23:26:46] "GET /enroll_module HTTP/1.1" 200 -
+12/12/2021 11:26:46 PM 127.0.0.1 - - [12/Dec/2021 23:26:46] "[33mGET /static/print.css HTTP/1.1[0m" 404 -
+12/12/2021 11:26:49 PM dlartey Enrolled in module Successfully
+12/12/2021 11:26:49 PM 127.0.0.1 - - [12/Dec/2021 23:26:49] "POST /enroll_module HTTP/1.1" 200 -
+12/12/2021 11:26:49 PM 127.0.0.1 - - [12/Dec/2021 23:26:49] "[33mGET /static/print.css HTTP/1.1[0m" 404 -
+12/12/2021 11:27:16 PM  * Detected change in '/home/daniel/Documents/webdevelopmentcwk2/app/views.py', reloading
+12/12/2021 11:27:16 PM  * Restarting with stat
+12/12/2021 11:27:21 PM 127.0.0.1 - - [12/Dec/2021 23:27:21] "GET /view_modules HTTP/1.1" 200 -
+12/12/2021 11:27:22 PM 127.0.0.1 - - [12/Dec/2021 23:27:22] "[33mGET /static/print.css HTTP/1.1[0m" 404 -
+12/12/2021 11:27:31 PM 127.0.0.1 - - [12/Dec/2021 23:27:31] "GET /view_score HTTP/1.1" 200 -
+12/12/2021 11:27:31 PM 127.0.0.1 - - [12/Dec/2021 23:27:31] "[33mGET /static/print.css HTTP/1.1[0m" 404 -
+12/12/2021 11:27:42 PM 127.0.0.1 - - [12/Dec/2021 23:27:42] "GET /view_modules HTTP/1.1" 200 -
+12/12/2021 11:27:42 PM 127.0.0.1 - - [12/Dec/2021 23:27:42] "[33mGET /static/print.css HTTP/1.1[0m" 404 -
+12/12/2021 11:28:23 PM  * Detected change in '/home/daniel/Documents/webdevelopmentcwk2/run.py', reloading
+12/12/2021 11:28:23 PM  * Restarting with stat
